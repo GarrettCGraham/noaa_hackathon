@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 10389bd71265d8d19fdf9b15793fbbd400cc00c7 sft-managed <u00ubb84p1zupJaVTd357@cpu0547.raplab.sjc4.nvmetal.net> 1630432504 -0700	branch: Created from HEAD
+10389bd71265d8d19fdf9b15793fbbd400cc00c7 17faeec84126dad2495ba281a29eae472071bb59 sft-managed <u00ubb84p1zupJaVTd357@cpu0547.raplab.sjc4.nvmetal.net> 1630432544 -0700	commit: Successful migration to TF v2.5 and test.
+17faeec84126dad2495ba281a29eae472071bb59 c67bcf8424edcf5d3b6c33d51efc90181143e1dc sft-managed <u00ubb84p1zupJaVTd357@cpu0547.raplab.sjc4.nvmetal.net> 1630433024 -0700	commit: Copied repo to new directory for soilqc customization. Added single station 1121 data. Cleaned up experiment results from last repo.
+c67bcf8424edcf5d3b6c33d51efc90181143e1dc f2583089fc7f9bd4594c45b8bafdf971bc3a991e sft-managed <u00ubb84p1zupJaVTd357@cpu0547.raplab.sjc4.nvmetal.net> 1630435101 -0700	commit: Reformatted data.
